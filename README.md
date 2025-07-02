@@ -4,7 +4,7 @@
 
 ---
 
-## [Download Boxcam 2](https://github.com/rebane2001/Boxcam/releases/download/v2.8/Boxcam_2.8.jsx)
+## [Download Boxcam 2](https://github.com/rebane2001/Boxcam/releases/download/v2.8/Boxcam_2.8.jsx) | [Promo Video](https://youtu.be/ifepBpRzYW4) | [Tutorial Video](https://youtu.be/YGWOH7_gZdc)
 
 ---
 
@@ -19,6 +19,8 @@
 Boxcam 1 was a free tool I released back in July 2018. The November of the same year I discontinued the first version and released Boxcam 2 for $19.99 on [aescripts](https://aescripts.com/boxcam/), collaborating with [Danny Perry](https://www.dannyperry.me/) for new promo assets.
 
 7 years later, in 2025, I decided to discontinue the paid version of Boxcam 2 and open-source it for everyone to use for free. I did so for two reasons - I think design tools should be accessible to everyone, and I was fed up with having to deal with support tickets and updates.
+
+We're only getting paid in publicity now, so give the [promo video](https://youtu.be/ifepBpRzYW4) a like, tell you friends about Boxcam, and check out what [Danny](https://www.dannyperry.me/)'s up to.
 
 # Usage Guide
 
