@@ -4,9 +4,15 @@
 
 ---
 
-<img src="img/where_to_use.png"><img src="img/_where_to_use_3.gif">  
-<img src="img/_how_it_works_boxcam_2.gif"><img src="img/how_it_works_1.png">  
-<img src="img/features_2.png">  
+## [Download Boxcam 2](https://github.com/rebane2001/Boxcam/releases/download/v2.8/Boxcam_2.8.jsx)
+
+---
+
+<p align="center">
+<img src="img/where_to_use.png" width="50%"><img src="img/_where_to_use_3.gif" width="50%">  
+<img src="img/_how_it_works_boxcam_2.gif" width="50%"><img src="img/how_it_works_1.png" width="50%">  
+<img src="img/features_2.png" width="50%">  
+</p>
 
 # About this project
 
